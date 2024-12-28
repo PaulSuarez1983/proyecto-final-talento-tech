@@ -1,0 +1,163 @@
+[
+  {
+    "id": "collares-01",
+    "titulo": "collares 01",
+    "imagen": "./img/collares/1.png",
+    "categoria": {
+      "nombre": "collaress",
+      "id": "collares"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "collares-02",
+    "titulo": "collares 02",
+    "imagen": "./img/collares/2.png",
+    "categoria": {
+      "nombre": "collares",
+      "id": "collares"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "collares-03",
+    "titulo": "collares 03",
+    "imagen": "./img/collares/16.png",
+    "categoria": {
+      "nombre": "collares",
+      "id": "collares"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "collares-04",
+    "titulo": "collares 04",
+    "imagen": "./img/collares/17.png",
+    "categoria": {
+      "nombre": "collares",
+      "id": "collares"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "collares-05",
+    "titulo": "collares 05",
+    "imagen": "./img/collares/18.png",
+    "categoria": {
+      "nombre": "collares",
+      "id": "collares"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "gorras-01",
+    "titulo": "gorras 01",
+    "imagen": "./img/gorras/3.png",
+    "categoria": {
+      "nombre": "gorras",
+      "id": "gorras"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "gorras-02",
+    "titulo": "gorras 02",
+    "imagen": "./img/gorras/4.png",
+    "categoria": {
+      "nombre": "gorras",
+      "id": "gorras"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "gorras-03",
+    "titulo": "gorras 03",
+    "imagen": "./img/gorras/5.png",
+    "categoria": {
+      "nombre": "gorras",
+      "id": "gorras"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "gorras-04",
+    "titulo": "gorras 04",
+    "imagen": "./img/gorras/6.png",
+    "categoria": {
+      "nombre": "gorras",
+      "id": "gorras"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "gorras-05",
+    "titulo": "gorras 05",
+    "imagen": "./img/gorras/7.png",
+    "categoria": {
+      "nombre": "gorras",
+      "id": "gorras"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "gorras-06",
+    "titulo": "gorras 06",
+    "imagen": "./img/gorras/8.png",
+    "categoria": {
+      "nombre": "gorras",
+      "id": "gorras"
+    },
+    "precio": 1000
+  },
+
+  {
+    "id": "Aros-01",
+    "titulo": "Aros 01",
+    "imagen": "./img/Aros/9.png",
+    "categoria": {
+      "nombre": "Aros",
+      "id": "Aros"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Aros-02",
+    "titulo": "Aros 02",
+    "imagen": "./img/Aros/10.png",
+    "categoria": {
+      "nombre": "Aros",
+      "id": "Aros"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Aros-03",
+    "titulo": "Aros 03",
+    "imagen": "./img/Aros/11.png",
+    "categoria": {
+      "nombre": "Aros",
+      "id": "Aros"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Aros-04",
+    "titulo": "Aros 04",
+    "imagen": "./img/Aros/12.png",
+    "categoria": {
+      "nombre": "Aros",
+      "id": "Aros"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Aros-05",
+    "titulo": "Aros 05",
+    "imagen": "./img/Aros/13.png",
+    "categoria": {
+      "nombre": "Aros",
+      "id": "Aros"
+    },
+    "precio": 1000
+  }
+]
